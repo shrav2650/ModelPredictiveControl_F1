@@ -1,0 +1,6 @@
+mass 736kg
+steering constraints -30 to 30
+wheelbase 3.698
+l_f = 1.4792
+l_r = 2.2188
+coefficient of friction = 0.9
