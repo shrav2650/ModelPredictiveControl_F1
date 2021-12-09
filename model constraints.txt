@@ -4,3 +4,6 @@ wheelbase 3.698
 l_f = 1.4792
 l_r = 2.2188
 coefficient of friction = 0.9
+braking max 5g (-acc)
+max acc 10.68
+vel 0-vmax(89)
