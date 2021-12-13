@@ -14,7 +14,7 @@ MPC Borreli Lab: https://github.com/urosolia/RacingLMPC/tree/devel-ugo
 
 Austria : 55.512298329310006
 
-Austin : 
+Austin : 75.45454321972616
 
 Monza : 77.84548993166275
 
